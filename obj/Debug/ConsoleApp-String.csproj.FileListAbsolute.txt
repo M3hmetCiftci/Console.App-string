@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\bin\Debug\ConsoleApp-String.exe.config
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\bin\Debug\ConsoleApp-String.exe
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\bin\Debug\ConsoleApp-String.pdb
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\obj\Debug\ConsoleApp-String.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\obj\Debug\ConsoleApp-String.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\obj\Debug\ConsoleApp-String.exe
+C:\Users\asus\source\repos\ConsoleApp-String\ConsoleApp-String\obj\Debug\ConsoleApp-String.pdb
